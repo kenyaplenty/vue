@@ -320,3 +320,6 @@ Thank you to all the people who already contributed to Vue!
 [MIT](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2013-present, Yuxi (Evan) You
+
+## Kenya's Change 
+Here I am making a trivial change to the code like you guys asked for
